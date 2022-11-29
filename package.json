@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "bcfg": "git+https://github.com/bcoin-org/bcfg.git#semver:~0.1.7",
-    "bcrypto": "michalsmiarowski/bcrypto#add-bech32m-mapping-to-browser-fieldbcoin-org",
+    "bcrypto": "michalsmiarowski/bcrypto#add-bech32m-mapping-to-browser-field",
     "bcurl": "git+https://github.com/bcoin-org/bcurl.git#semver:^0.2.0",
     "bdb": "git+https://github.com/bcoin-org/bdb.git#semver:~1.4.0",
     "bdns": "git+https://github.com/bcoin-org/bdns.git#semver:~0.1.5",
